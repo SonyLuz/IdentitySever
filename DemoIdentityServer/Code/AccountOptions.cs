@@ -1,5 +1,6 @@
 ﻿using System;
 
+
 namespace DemoIdentityServer.Code
 {
     public class AccountOptions
